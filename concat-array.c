@@ -2,6 +2,7 @@
 #include <conio.h>
 int main()
 {
+    
     int size, size_2;
     // get the elements and size of first array
     printf("enter the size of first array \n");
